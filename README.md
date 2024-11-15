@@ -4,10 +4,8 @@ An virus that dont damaging your computer until restart. Not done yet.
 # TERMUX NOT SUPPORTED
 
 # Installation
-```
-Move the "data" folder to "C" disk. (You can get the folder from zip version)
-```
-Run this commands on command prompt.
+- Move the "data" folder to "C" disk. (You can get the folder from zip version)
+- Run this commands on command prompt.
 ```
 pip install pyautogui
 pip install pillow
