@@ -14,5 +14,5 @@ pip install pillow
 pip install pywin32
 ```
 
-# According to my friends, some people tried some of my codes on termux, they said me it didn't work,  Now, i will put the title TERMUX SUPPORTED or TERMUX NOT SUPPORTED texts.
+
 ![indir (4)](https://github.com/user-attachments/assets/a4ca7b9c-2d62-4338-8008-bbe40000f3ce)
