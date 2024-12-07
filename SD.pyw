@@ -9,7 +9,7 @@ hata_mesaji = "YOUR COMPUTER HAS BEEN HACKED BY UNKNOWN DESTROYER!"
 def pencere_olustur():
     pencere = tk.Tk()
     
-
+# baslik
     pencere.title("HACKED")
     
 
