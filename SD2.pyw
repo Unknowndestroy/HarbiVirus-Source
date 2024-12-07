@@ -33,7 +33,7 @@ def start_drawing():
         draw_random_curve(draw)
         
  
-        image.show()
+        image.show()  # show
         time.sleep(0.1)  
 
 
