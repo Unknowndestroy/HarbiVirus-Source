@@ -1,6 +1,8 @@
 REG ADD "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v DisableAntispyware /t REG_DWORD /d 0 /f
 cd C:\data
 start resmon.exe
+start headacher.py
+start glitchersounder.py
 start UserAccountControlSettings.exe
 start wscui.cpl
 start winver.exe
