@@ -5,7 +5,7 @@ from pydub.playback import play
 song = AudioSegment.from_mp3("glitchsong.mp3")
 
 # Ses seviyesini artır (dB cinsinden)
-song = song + 30  # Ses seviyesini 30 dB artırmak
+song = song + 60  # Ses seviyesini 30 dB artırmak
 
 # Sesi çal
 play(song)
