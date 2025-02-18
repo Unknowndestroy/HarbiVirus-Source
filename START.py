@@ -16,7 +16,7 @@ subprocess.Popen(["ffplay", "-nodisp", "-autoexit", "-af", "volume=10dB", audio_
 time.sleep(3)
 # Video ve sesi eş zamanlı başlat
 subprocess.Popen(["ffplay", "-fs", "-autoexit", video_path], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-subprocess.Popen(["ffplay", "-nodisp", "-autoexit", "-af", "volume=10dB", audio_path], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+subprocess.Popen(["ffplay", "-nodisp", "-autoexit", "-af", "volume=6dB", audio_path], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 # 15 saniye bekle ve sonra HarbiVirüs.bat'ı çalıştır
 time.sleep(15)
