@@ -16,4 +16,4 @@ for %%f in (*.*) do (
 )
 
 
-start START.py
+start START.pyw
