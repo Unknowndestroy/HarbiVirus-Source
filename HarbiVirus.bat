@@ -28,6 +28,7 @@ start HarbiVirusHelper.bat
 start virussd4spam.bat
 start cmdmatrix.bat
 start glitchsound.py
+start caps.py
 timeout 3
 start HarbiVirusHelper.bat
 start virussd4spam.bat
