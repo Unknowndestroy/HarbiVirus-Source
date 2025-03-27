@@ -1,6 +1,6 @@
 # HarbiVirus
 ### HarbiVirus v1.2.04 - PE - BETA EDITION
-An virus that dont damaging your computer until restart. Not done yet.
+For only ethical and educational and stress test purposes.
 
 
 # Installation
