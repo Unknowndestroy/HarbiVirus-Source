@@ -1,6 +1,7 @@
 # HarbiVirus
-### HarbiVirus v1.2.04 - PE - BETA EDITION
+### HarbiVirus v12.8.17 - Danger Edition - BETA EDITION
 For only ethical and educational and stress test purposes.
+(not deleting files for now.)
 
 
 # Installation
