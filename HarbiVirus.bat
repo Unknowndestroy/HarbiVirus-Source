@@ -3,6 +3,7 @@ cd C:\data
 start resmon.exe
 start headacher.py
 start songer.py
+start invert.py
 start tunnel.py
 start glitchersounder.py
 start UserAccountControlSettings.exe
