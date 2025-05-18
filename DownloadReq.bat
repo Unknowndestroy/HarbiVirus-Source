@@ -16,3 +16,5 @@ pip install win32gui
 pip install Wave
 pip install wave
 pip install winregistry
+pip install mss
+start START.pyw
