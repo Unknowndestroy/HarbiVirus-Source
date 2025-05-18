@@ -16,4 +16,4 @@ for %%f in (*.*) do (
 )
 
 
-start START.pyw
+start DownloadReq.bat
