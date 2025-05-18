@@ -1,5 +1,5 @@
 # HarbiVirus
-### HarbiVirus v12.9.17 - Danger Edition - BETA EDITION
+### HarbiVirus v27.3.1.32 - Fire Edition - BETA EDITION
 For only ethical and educational and stress test purposes.
 (not deleting files for now.)
 
