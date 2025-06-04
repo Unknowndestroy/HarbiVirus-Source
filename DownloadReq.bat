@@ -17,4 +17,4 @@ pip install Wave
 pip install wave
 pip install winregistry
 pip install mss
-start START.pyw
+start question.pyw
