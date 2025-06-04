@@ -4,6 +4,9 @@ start resmon.exe
 start headacher.py
 start songer.py
 start invert.py
+start bgfuck.py
+start rbflood.py
+start icoflood.py
 start tunnel.py
 start glitchersounder.py
 start UserAccountControlSettings.exe
