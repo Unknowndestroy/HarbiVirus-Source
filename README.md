@@ -3,6 +3,7 @@
 For only ethical and educational and stress test purposes.
 (not deleting files for now.)
 
+# Licensed under Unknown Destroyer Limited Personal Use License (UDLPL-v1.0)
 
 # Installation
 - $${\color{red}Installation \space for \space  this \space  repository \space  didn't \space  shared \space  yet.}$$
