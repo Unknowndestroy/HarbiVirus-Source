@@ -27,12 +27,12 @@ frame.pack()
 
 def on_yes():
     # START.py dosyasını çalıştır
-    start_py_path = os.path.join(os.getcwd(), "START.py")
+    start_py_path = os.path.join(os.getcwd(), "START.pyw")
     if os.path.exists(start_py_path):
         # Aynı python ile çalıştır
         subprocess.Popen([sys.executable, start_py_path])
     else:
-        print("START.py bulunamadı lan!")
+        print("START.pyw bulunamadı lan!")
     root.destroy()
 
 def on_no():
