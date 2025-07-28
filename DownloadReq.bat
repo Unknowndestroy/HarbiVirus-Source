@@ -1,21 +1,20 @@
-pip install requests
-pip install six
-pip install urllib3
-pip install psutil
-pip install pillow
-pip install opencv-python
-pip install numpy
-pip install sounddevice
-pip install ffmpeg-python
-pip install pycaw
-pip install comtypes
-pip install simpleaudio
-pip install pydub
-pip install pywin32
-pip install win32gui
-pip install Wave
-pip install wave
-pip install winregistry
-pip install mss
-pip install PyQt5
+python -m pip install requests
+python -m pip install six
+python -m pip install urllib3
+python -m pip install psutil
+python -m pip install pillow
+python -m pip install opencv-python
+python -m pip install numpy
+python -m pip install sounddevice
+python -m pip install ffmpeg-python
+python -m pip install pycaw
+python -m pip install comtypes
+python -m pip install simpleaudio
+python -m pip install pydub
+python -m pip install pywin32
+python -m pip install win32gui
+python -m pip install wave
+python -m pip install winregistry
+python -m pip install mss
+python -m pip install PyQt5
 start question.pyw
